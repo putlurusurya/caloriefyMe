@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: foodclassify
+  labels:
+    app: foodclassify
+spec:
+  containers:
+    - image: putlurusurya/foodclassify:1.0
+      name: foodclassify
+      ports:
+        - containerPort: 5000

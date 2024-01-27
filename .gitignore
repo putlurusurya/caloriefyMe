@@ -1,0 +1,9 @@
+CaloriefyMe/.mvn
+CaloriefyMe/.vscode
+CaloriefyMe/target
+CaloriefyMe/mvnw
+CaloriefyMe/mvnw.cmd
+foodClassify/__pycache__
+foodClassify/models
+foodClassify/test
+foodClassify/model_v1_inceptionV3.h5

@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "caloriefyme.nutrition.api.url",
+    "type": "java.lang.String",
+    "description": "URL for nutrition api to get the nutritional values of the food"
+  },
+  {
+    "name": "caloriefyme.nutrition.api.appkey",
+    "type": "java.lang.String",
+    "description": "App Id for nutrition api"
+  },
+  {
+    "name": "caloriefyme.nutrition.api.appid",
+    "type": "java.lang.String",
+    "description": "App key for nutrition api"
+  },
+  {
+    "name": "caloriefyme.dl.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'caloriefyme.dl.api.url'"
+  }
+]}
